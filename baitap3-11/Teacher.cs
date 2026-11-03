@@ -21,4 +21,4 @@ namespace baitap3_11
             Console.WriteLine("Ten toi la " + this.name + ", Toi la giang vien.");
         }
     }
-}
+} 
